@@ -1,0 +1,13 @@
+{
+    "name": "flixel-w-notification",
+    "url" : "https://github.com/Votex-coder/flixel-w-notification/",
+    "tags": ["flixel", "screenshot"],
+    "description": "Show windows notification's with your text.",
+    "version": "1.0.0",
+    "classPath": "source/",
+    "contributors": ["Votex-coder"],
+    "dependencies": {
+      "flixel": "",
+      "openfl": ""
+    }
+  }
